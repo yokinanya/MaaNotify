@@ -2,7 +2,7 @@
 一个基于[onepush](https://github.com/y1ndan/onepush)的[MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights)通知推送脚本
 
 # 使用方法
-1. 使用`git clone`把脚本拉取到MAA的安装目录
+1. 使用 git clone 把脚本拉取到MAA的安装目录
     ```bash
     git clone https://github.com/yokinanya/MaaNotify
     ```
