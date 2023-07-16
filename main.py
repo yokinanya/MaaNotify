@@ -27,4 +27,4 @@ for items in logs:
         logs_msg.append(items.replace('\n', '').replace('\r', ''))
 last_logs = find_last_start_up(logs_msg)
 content = "  \n".join(last_logs)
-handle_notify(title=f"MAA Notify", content=content)
+handle_notify(title=f"【MAA Notify】", content=content)
