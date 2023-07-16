@@ -1,0 +1,2 @@
+onepush==1.2.0
+Requests==2.31.0
