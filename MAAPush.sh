@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 ./notify/main.py
+python3 ./MAAPush/main.py

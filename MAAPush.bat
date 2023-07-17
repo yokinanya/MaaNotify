@@ -1,2 +1,2 @@
 @echo off
-python ./notify/main.py
+python ./MAAPush/main.py
