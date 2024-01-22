@@ -1,11 +1,12 @@
+import yaml
 import logging
 import os
-import yaml
+
 from onepush import get_notifier
 from onepush.core import Provider
 from onepush.exceptions import OnePushException
 from onepush.providers.custom import Custom
-from requests import Response
+from httpx import Response
 
 configfile = logfile = os.path.join(os.path.dirname(__file__),"config.yaml")
 
